@@ -1,1 +1,1 @@
-# Cesium-what3wordsGeoCoderService
+# Cesium-what3wordsGeocoderService
