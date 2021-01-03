@@ -19,7 +19,7 @@ what3wordsGeocoderService.prototype.geocode = function (input) {
         var convertResource = new Cesium.Resource({
             url: "https://api.what3words.com/v3/convert-to-coordinates",
             queryParameters: {
-                key: "1KA9ISHZ",
+                key: "Insert_Your_what3words_API_Key_Here",
                 //key: "Insert_Your_what3words_API_Key_Here",
                 words: input,
                 format: "geojson",
